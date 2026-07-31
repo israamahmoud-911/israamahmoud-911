@@ -1,45 +1,109 @@
+# Hi, I'm Israa Mahmoud 👋
 
-![](https://komarev.com/ghpvc/?username=israamahmoud-911&label=Profile+Views)
+## Moodle Administrator | E-Learning Systems Specialist | PHP Developer
 
-# Hi, I'm israa mahmoud 👋
+I am passionate about building and managing modern Learning Management Systems (LMS) and online examination platforms. My expertise includes Moodle administration, system customization, SQL reporting, Linux server management, and educational technology solutions.
 
-### AWS Solutions Architect | Full Stack Developer | IT Trainer
 ---
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+## 💼 About Me
 
-### Technologies
+- 🎓 E-Learning Systems Specialist
+- 🖥 Moodle Administrator & Developer
+- 📚 Learning Management Systems (LMS)
+- 🛠 PHP & SQL Developer
+- 🐧 Linux Server Administration
+- ☁ Cloud & Server Deployment
+- 🔐 Online Examination Systems
+- 📊 Reporting & Data Analysis
 
-- Flutter
-- React
-- Node.js
+---
+
+## 🛠 Technical Skills
+
+### Learning Management Systems
+- Moodle
+- Moodle Administration
+- Moodle Theme Customization
+- Moodle Plugins
+- Quiz & Exam Management
+- Question Bank Management
+- SCORM
+- Learning Analytics
+
+### Programming
 - PHP
-- AWS
+- SQL
+- JavaScript
+- HTML5
+- CSS3
+
+### Database
+- MariaDB
+- MySQL
+
+### Server & DevOps
+- Linux
+- Apache
+- Nginx
+- Git
+- GitHub
+
+### Other Technologies
+- REST APIs
+- Moodle Web Services
+- Microsoft Teams Integration
+- AWS (Basic)
 - WordPress
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### 📱 Flutter Weather App
+### 🎓 Moodle Examination Platform
 
-Real-time weather application built with Flutter and REST APIs.
+A customized Moodle-based online examination platform featuring:
 
-🔗 https://github.com/DotHW/h03.git
-
----
-
-### 🛒 MERN E-Commerce Store
-
-Full-stack e-commerce application using MongoDB, Express, React, and Node.js.
-
-🔗 https://github.com/fadihattab/mern-store
+- Secure Online Exams
+- Question Bank Management
+- Random Question Selection
+- User & Role Management
+- Grade Management
+- Exam Workflow Automation
 
 ---
 
-### 🎓 Moodle LMS Platform
+### 📊 Moodle SQL Reports
 
-Customized Moodle learning management system with cloud deployment.
+Developed advanced SQL reports including:
 
-🔗 https://github.com/fadihattab/moodle-project
+- Quiz Reports
+- Student Grades Reports
+- Teacher Reports
+- Course Analytics
+- Question Bank Statistics
+
+---
+
+### ⚙ Moodle Customization
+
+Customization and administration of Moodle including:
+
+- Theme Customization
+- Login Page Design
+- Plugin Configuration
+- Permissions & Roles
+- Performance Optimization
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=israa-mahmoud-911&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=israa-mahmoud-911&layout=compact&theme=tokyonight)
+
+
+---
+
+⭐ Passionate about improving digital learning experiences through innovative educational technology and reliable Moodle solutions.
