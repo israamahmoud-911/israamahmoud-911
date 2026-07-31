@@ -1,16 +1,45 @@
-## Hi there 👋
 
-<!--
-**israamahmoud-911/israamahmoud-911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=fadihattab&label=Profile+Views)
 
-Here are some ideas to get you started:
+# Hi, I'm Fadi Hattab 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### AWS Solutions Architect | Full Stack Developer | IT Trainer
+---
+
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+### Technologies
+
+- Flutter
+- React
+- Node.js
+- PHP
+- AWS
+- WordPress
+
+---
+
+## Featured Projects
+
+### 📱 Flutter Weather App
+
+Real-time weather application built with Flutter and REST APIs.
+
+🔗 https://github.com/DotHW/h03.git
+
+---
+
+### 🛒 MERN E-Commerce Store
+
+Full-stack e-commerce application using MongoDB, Express, React, and Node.js.
+
+🔗 https://github.com/fadihattab/mern-store
+
+---
+
+### 🎓 Moodle LMS Platform
+
+Customized Moodle learning management system with cloud deployment.
+
+🔗 https://github.com/fadihattab/moodle-project
